@@ -1,0 +1,1 @@
+setTimeout(function(){​​​​document.getElementById("demo").style.color = "black"; }​​​​, 5000);
